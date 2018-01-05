@@ -11,6 +11,7 @@ namespace ProgramaTesteGuit
         {
             Console.WriteLine("Helo Word!");
             Console.Write("Bom dia");
+            Console.Write("Como vc esta?");
             Console.ReadLine();
         }
     }
