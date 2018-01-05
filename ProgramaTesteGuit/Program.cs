@@ -9,7 +9,8 @@ namespace ProgramaTesteGuit
     {
         static void Main(string[] args)
         {
-            Console.Write("Helo Word!");
+            Console.WriteLine("Helo Word!");
+            Console.Write("Bom dia");
             Console.ReadLine();
         }
     }
